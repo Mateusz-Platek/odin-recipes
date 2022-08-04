@@ -1,0 +1,38 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: azure;
+}
+
+ul {
+    background-color: darkcyan;
+}
+
+ol {
+    background-color: darkgray;
+}
+
+ul li {
+    font-style: italic;
+}
+
+ol li {
+    font-weight: bold;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+h2 {
+    background-color: green;
+}
+
+p {
+    background-color: blueviolet;
+}
